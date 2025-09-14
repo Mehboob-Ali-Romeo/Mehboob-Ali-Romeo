@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋, I'm Mehboob Ali  
 
-<!--
-**Mehboob-Ali-Romeo/Mehboob-Ali-Romeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Development Student** | 🌐 **Learning Freelancing & Virtual Assistance**  
+🚀 Passionate about building creative and responsive websites  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me  
+- 🌱 Currently learning **HTML, CSS, and JavaScript**  
+- 🎯 Goal: Become a **skilled freelancer** and work on international projects  
+- 🤝 Open to collaborating on beginner-friendly open-source projects  
+- ⚡ Fun fact: I enjoy learning step by step and practicing daily  
+
+---
+
+## 🔹 Skills (Learning & Improving)  
+- HTML5  
+- CSS3  
+- JavaScript (Basics in progress)  
+- Git & GitHub
+- Virtual Assistant
+- Freelancing  
+
+---
+
+## 🔹 Currently Learning  
+- Responsive Web Design  
+- CSS Positioning & Layouts  
+- Basics of Freelancing & Virtual Assistance  
+
+---
+
+## 🔹 How to Reach Me  
+📧 Email: mehboobalilangove786@gmail.com 
+🌐 Portfolio:  
+💼 LinkedIn: [linkedin.com/in/Mehboob Ali](#)  
+
+---
+
+⭐️ From [Mehboob Ali](https://github.com/Mehboob-Ali-Romeo)  
